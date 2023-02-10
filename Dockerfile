@@ -1,6 +1,6 @@
 FROM python:3.10
 
-WORKDIR /TamilanBotsz
+WORKDIR /TamilanBotsZ/AwesomeFilterPro
 
 COPY requirements.txt ./
 
